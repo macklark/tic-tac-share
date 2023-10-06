@@ -25,3 +25,39 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+#tile-0:checked ~ .check-0 {
+  @apply opacity-100;
+}
+
+#tile-1:checked ~ .check-1 {
+  @apply opacity-100;
+}
+
+#tile-2:checked ~ .check-2 {
+  @apply opacity-100;
+}
+
+#tile-3:checked ~ .check-3 {
+  @apply opacity-100;
+}
+
+#tile-4:checked ~ .check-4 {
+  @apply opacity-100;
+}
+
+#tile-5:checked ~ .check-5 {
+  @apply opacity-100;
+}
+
+#tile-6:checked ~ .check-6 {
+  @apply opacity-100;
+}
+
+#tile-7:checked ~ .check-7 {
+  @apply opacity-100;
+}
+
+#tile-8:checked ~ .check-8 {
+  @apply opacity-100;
+}
